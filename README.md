@@ -1,2 +1,2 @@
 # vulcano
-Gestion Documental Inspiorado en Orfeo
+Gestion Documental Inspirado en Orfeo
