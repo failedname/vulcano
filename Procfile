@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT syseduca.wsgi:application
+web: waitress-serve --port=$PORT vulcano.wsgi:application
