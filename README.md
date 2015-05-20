@@ -2,4 +2,4 @@
 <strong>Gestion Documental Inspirado en Orfeo</strong>
 
 <h4>Demo</h4>
-<a href="www.vulcanos.herokuapp.com/" title="">Vulcano</a>
+<a href="/www.vulcanos.herokuapp.com/" title="">Vulcano</a>
